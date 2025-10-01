@@ -27,7 +27,8 @@ Dashboards are listed below. Click into any project to view its README, which co
 - 🧮 Explicit DAX Measures
 - 🎥 Interactive Visualizations (driven by Parameters/Slicers)
 - ⚙️ Implementing Parameters for Dynamic What-If Analysis
-- 📊 Core Charts (Bar , Cards)
+- 📊 Bar Charts
+- 📌 Advanced Metric Cards
 - 🎚️ Improved slicer controls combined with complex cross-filtering
 
 [➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
